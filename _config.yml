@@ -1,9 +1,9 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 熊紫茜
+subtitle: 部落格
+description: 欢迎来到我的部落格~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: my
 # 头像里面的描述
 avatarDesc: iOS / 机器学习
 url: "http://baixin.io"
@@ -16,25 +16,20 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo:  
+    github: Zixi1996
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 769110164@qq/com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: xxxx  
+
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
